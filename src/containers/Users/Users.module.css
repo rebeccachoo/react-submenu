@@ -1,0 +1,20 @@
+.Users {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+}
+.Users section {
+	width: 30%;
+}
+.Users .Result {
+	width: 70%;
+	text-align: left;
+}
+.active {
+	color: dodgerblue;
+}
+.inactive {
+	color: #fff;
+	text-decoration: none;
+}
